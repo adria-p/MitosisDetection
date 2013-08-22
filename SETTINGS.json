@@ -1,0 +1,20 @@
+{
+    "train_data_path": "images",
+    "train_data_format":"*.tif",
+    "valid_data_path": "imagesValid",
+    "model_path": "random_forest.pickle",
+    "prediction_path": "result.csv",
+    "savez_file_name": "features.txt",
+    "savez_file_name_test": "features_test.txt",
+    "training_folder": "training",
+    "testing_folder": "testing",
+    "negative_folder": "negativeSamples",
+    "positive_folder": "positiveSamples",
+    "wndchrm_dataset": "wndchrm",
+    "wndchrm_dataset_test": "wndchrm.test",
+    "wndchrm_datafit": "wndchrm.fit",
+    "wndchrm_datafit_test": "wndchrm_test.fit",
+    "training_old_folder": "trainingOld",
+    "testing_old_folder": "testingOld",
+    "test_folder": "testSamples"
+}
